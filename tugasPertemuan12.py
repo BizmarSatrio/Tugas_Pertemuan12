@@ -1,4 +1,4 @@
-import math
+
 # luas persegi panjang
 def luasPP(angka1, angka2):
     luas = angka1 * angka2
